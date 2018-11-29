@@ -1,0 +1,75 @@
+﻿
+@model ProyectoCRM.Models.Contacto
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Contacto</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.ID)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.ID)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Nombre)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Nombre)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Colonia)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Colonia)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Numero)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Numero)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Email)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Email)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Tipo)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Tipo)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Ciudad)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Ciudad)
+        </dd>
+    </dl>
+    <img src="@Model.Foto" alt="foto contacto"/>
+</div>
+<h3>Foto</h3>
+<form asp-action="SubirFoto" method="POST" enctype="multipart/form-data">
+    <div class="form-group">
+        <label for="foto" class="control-label"></label>
+        <input type="file" name="foto"/>
+        <input type="hidden" name="id" value="@Model.ID"/>
+
+        <div class="form-group">
+            <input type="submit" value="subir" class="btn btn-default"/>
+        </div>    
+    </div>
+</form>
+<div>
+
+    @Html.ActionLink("Edit", "Edit", new { id = Model.ID}) |
+    <a asp-action="Index">Back to List</a>
+</div>

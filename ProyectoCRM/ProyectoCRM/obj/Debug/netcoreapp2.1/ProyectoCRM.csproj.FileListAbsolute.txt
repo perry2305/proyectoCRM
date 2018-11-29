@@ -1,0 +1,185 @@
+C:\Users\Auditor Nocturno\source\repos\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\ProyectoCRM.csprojAssemblyReference.cache
+C:\Users\Auditor Nocturno\source\repos\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\ProyectoCRM.csproj.CoreCompileInputs.cache
+C:\Users\Auditor Nocturno\source\repos\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\ProyectoCRM.RazorAssemblyInfo.cache
+C:\Users\Auditor Nocturno\source\repos\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\ProyectoCRM.RazorAssemblyInfo.cs
+C:\Users\Auditor Nocturno\source\repos\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\ProyectoCRM.AssemblyInfoInputs.cache
+C:\Users\Auditor Nocturno\source\repos\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\ProyectoCRM.AssemblyInfo.cs
+C:\Users\Auditor Nocturno\source\repos\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\ProyectoCRM.TagHelpers.input.cache
+C:\Users\Auditor Nocturno\source\repos\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\ProyectoCRM.TagHelpers.output.cache
+C:\Users\Auditor Nocturno\source\repos\ProyectoCRM\ProyectoCRM\bin\Debug\netcoreapp2.1\ProyectoCRM.deps.json
+C:\Users\Auditor Nocturno\source\repos\ProyectoCRM\ProyectoCRM\bin\Debug\netcoreapp2.1\ProyectoCRM.runtimeconfig.json
+C:\Users\Auditor Nocturno\source\repos\ProyectoCRM\ProyectoCRM\bin\Debug\netcoreapp2.1\ProyectoCRM.runtimeconfig.dev.json
+C:\Users\Auditor Nocturno\source\repos\ProyectoCRM\ProyectoCRM\bin\Debug\netcoreapp2.1\ProyectoCRM.dll
+C:\Users\Auditor Nocturno\source\repos\ProyectoCRM\ProyectoCRM\bin\Debug\netcoreapp2.1\ProyectoCRM.pdb
+C:\Users\Auditor Nocturno\source\repos\ProyectoCRM\ProyectoCRM\bin\Debug\netcoreapp2.1\ProyectoCRM.Views.dll
+C:\Users\Auditor Nocturno\source\repos\ProyectoCRM\ProyectoCRM\bin\Debug\netcoreapp2.1\ProyectoCRM.Views.pdb
+C:\Users\Auditor Nocturno\source\repos\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\ProyectoCRM.RazorCoreGenerate.cache
+C:\Users\Auditor Nocturno\source\repos\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Auditor Nocturno\source\repos\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Auditor Nocturno\source\repos\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Auditor Nocturno\source\repos\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Auditor Nocturno\source\repos\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Auditor Nocturno\source\repos\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Auditor Nocturno\source\repos\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Auditor Nocturno\source\repos\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Auditor Nocturno\source\repos\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Auditor Nocturno\source\repos\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Auditor Nocturno\source\repos\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\ProyectoCRM.RazorTargetAssemblyInfo.cache
+C:\Users\Auditor Nocturno\source\repos\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\ProyectoCRM.RazorTargetAssemblyInfo.cs
+C:\Users\Auditor Nocturno\source\repos\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\ProyectoCRM.Views.pdb
+C:\Users\Auditor Nocturno\source\repos\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\ProyectoCRM.dll
+C:\Users\Auditor Nocturno\source\repos\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\ProyectoCRM.pdb
+C:\Users\Auditor Nocturno\source\repos\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\ProyectoCRM.csproj.CopyComplete
+C:\Users\Auditor Nocturno\source\repos\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\Razor\Views\Contactos\Index.g.cshtml.cs
+C:\Users\Auditor Nocturno\source\repos\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\Razor\Views\Contactos\Create.g.cshtml.cs
+C:\Users\Auditor Nocturno\source\repos\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\Razor\Views\Contactos\Details.g.cshtml.cs
+C:\Users\Auditor Nocturno\source\repos\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\Razor\Views\Contactos\Edit.g.cshtml.cs
+C:\Users\Auditor Nocturno\source\repos\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\Razor\Views\Contactos\Delete.g.cshtml.cs
+C:\Users\Auditor Nocturno\Desktop\karla\proyecto1\ProyectoCRM\ProyectoCRM\bin\Debug\netcoreapp2.1\ProyectoCRM.deps.json
+C:\Users\Auditor Nocturno\Desktop\karla\proyecto1\ProyectoCRM\ProyectoCRM\bin\Debug\netcoreapp2.1\ProyectoCRM.runtimeconfig.json
+C:\Users\Auditor Nocturno\Desktop\karla\proyecto1\ProyectoCRM\ProyectoCRM\bin\Debug\netcoreapp2.1\ProyectoCRM.runtimeconfig.dev.json
+C:\Users\Auditor Nocturno\Desktop\karla\proyecto1\ProyectoCRM\ProyectoCRM\bin\Debug\netcoreapp2.1\ProyectoCRM.dll
+C:\Users\Auditor Nocturno\Desktop\karla\proyecto1\ProyectoCRM\ProyectoCRM\bin\Debug\netcoreapp2.1\ProyectoCRM.pdb
+C:\Users\Auditor Nocturno\Desktop\karla\proyecto1\ProyectoCRM\ProyectoCRM\bin\Debug\netcoreapp2.1\ProyectoCRM.Views.dll
+C:\Users\Auditor Nocturno\Desktop\karla\proyecto1\ProyectoCRM\ProyectoCRM\bin\Debug\netcoreapp2.1\ProyectoCRM.Views.pdb
+C:\Users\Auditor Nocturno\Desktop\karla\proyecto1\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\ProyectoCRM.csprojAssemblyReference.cache
+C:\Users\Auditor Nocturno\Desktop\karla\proyecto1\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\ProyectoCRM.csproj.CoreCompileInputs.cache
+C:\Users\Auditor Nocturno\Desktop\karla\proyecto1\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\ProyectoCRM.RazorAssemblyInfo.cache
+C:\Users\Auditor Nocturno\Desktop\karla\proyecto1\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\ProyectoCRM.RazorAssemblyInfo.cs
+C:\Users\Auditor Nocturno\Desktop\karla\proyecto1\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\ProyectoCRM.AssemblyInfoInputs.cache
+C:\Users\Auditor Nocturno\Desktop\karla\proyecto1\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\ProyectoCRM.AssemblyInfo.cs
+C:\Users\Auditor Nocturno\Desktop\karla\proyecto1\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\ProyectoCRM.TagHelpers.input.cache
+C:\Users\Auditor Nocturno\Desktop\karla\proyecto1\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\ProyectoCRM.TagHelpers.output.cache
+C:\Users\Auditor Nocturno\Desktop\karla\proyecto1\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\ProyectoCRM.RazorCoreGenerate.cache
+C:\Users\Auditor Nocturno\Desktop\karla\proyecto1\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\Razor\Views\Contactos\Create.g.cshtml.cs
+C:\Users\Auditor Nocturno\Desktop\karla\proyecto1\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\Razor\Views\Contactos\Delete.g.cshtml.cs
+C:\Users\Auditor Nocturno\Desktop\karla\proyecto1\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\Razor\Views\Contactos\Details.g.cshtml.cs
+C:\Users\Auditor Nocturno\Desktop\karla\proyecto1\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\Razor\Views\Contactos\Edit.g.cshtml.cs
+C:\Users\Auditor Nocturno\Desktop\karla\proyecto1\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\Razor\Views\Contactos\Index.g.cshtml.cs
+C:\Users\Auditor Nocturno\Desktop\karla\proyecto1\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Auditor Nocturno\Desktop\karla\proyecto1\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Auditor Nocturno\Desktop\karla\proyecto1\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Auditor Nocturno\Desktop\karla\proyecto1\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Auditor Nocturno\Desktop\karla\proyecto1\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Auditor Nocturno\Desktop\karla\proyecto1\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Auditor Nocturno\Desktop\karla\proyecto1\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Auditor Nocturno\Desktop\karla\proyecto1\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Auditor Nocturno\Desktop\karla\proyecto1\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Auditor Nocturno\Desktop\karla\proyecto1\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Auditor Nocturno\Desktop\karla\proyecto1\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\ProyectoCRM.RazorTargetAssemblyInfo.cache
+C:\Users\Auditor Nocturno\Desktop\karla\proyecto1\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\ProyectoCRM.RazorTargetAssemblyInfo.cs
+C:\Users\Auditor Nocturno\Desktop\karla\proyecto1\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\ProyectoCRM.Views.pdb
+C:\Users\Auditor Nocturno\Desktop\karla\proyecto1\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\ProyectoCRM.dll
+C:\Users\Auditor Nocturno\Desktop\karla\proyecto1\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\ProyectoCRM.pdb
+C:\Users\Auditor Nocturno\Desktop\karla\proyecto1\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\ProyectoCRM.csproj.CopyComplete
+C:\Users\Recepcion\Desktop\AUDITOR\ProyectoCRM\ProyectoCRM\bin\Debug\netcoreapp2.1\ProyectoCRM.deps.json
+C:\Users\Recepcion\Desktop\AUDITOR\ProyectoCRM\ProyectoCRM\bin\Debug\netcoreapp2.1\ProyectoCRM.runtimeconfig.json
+C:\Users\Recepcion\Desktop\AUDITOR\ProyectoCRM\ProyectoCRM\bin\Debug\netcoreapp2.1\ProyectoCRM.runtimeconfig.dev.json
+C:\Users\Recepcion\Desktop\AUDITOR\ProyectoCRM\ProyectoCRM\bin\Debug\netcoreapp2.1\ProyectoCRM.dll
+C:\Users\Recepcion\Desktop\AUDITOR\ProyectoCRM\ProyectoCRM\bin\Debug\netcoreapp2.1\ProyectoCRM.pdb
+C:\Users\Recepcion\Desktop\AUDITOR\ProyectoCRM\ProyectoCRM\bin\Debug\netcoreapp2.1\ProyectoCRM.Views.dll
+C:\Users\Recepcion\Desktop\AUDITOR\ProyectoCRM\ProyectoCRM\bin\Debug\netcoreapp2.1\ProyectoCRM.Views.pdb
+C:\Users\Recepcion\Desktop\AUDITOR\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\ProyectoCRM.csprojAssemblyReference.cache
+C:\Users\Recepcion\Desktop\AUDITOR\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\ProyectoCRM.csproj.CoreCompileInputs.cache
+C:\Users\Recepcion\Desktop\AUDITOR\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\ProyectoCRM.RazorAssemblyInfo.cache
+C:\Users\Recepcion\Desktop\AUDITOR\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\ProyectoCRM.RazorAssemblyInfo.cs
+C:\Users\Recepcion\Desktop\AUDITOR\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\ProyectoCRM.AssemblyInfoInputs.cache
+C:\Users\Recepcion\Desktop\AUDITOR\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\ProyectoCRM.AssemblyInfo.cs
+C:\Users\Recepcion\Desktop\AUDITOR\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\ProyectoCRM.TagHelpers.input.cache
+C:\Users\Recepcion\Desktop\AUDITOR\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\ProyectoCRM.TagHelpers.output.cache
+C:\Users\Recepcion\Desktop\AUDITOR\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\ProyectoCRM.RazorCoreGenerate.cache
+C:\Users\Recepcion\Desktop\AUDITOR\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\Razor\Views\Contactos\Create.g.cshtml.cs
+C:\Users\Recepcion\Desktop\AUDITOR\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\Razor\Views\Contactos\Delete.g.cshtml.cs
+C:\Users\Recepcion\Desktop\AUDITOR\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\Razor\Views\Contactos\Details.g.cshtml.cs
+C:\Users\Recepcion\Desktop\AUDITOR\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\Razor\Views\Contactos\Edit.g.cshtml.cs
+C:\Users\Recepcion\Desktop\AUDITOR\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\Razor\Views\Contactos\Index.g.cshtml.cs
+C:\Users\Recepcion\Desktop\AUDITOR\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Recepcion\Desktop\AUDITOR\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Recepcion\Desktop\AUDITOR\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Recepcion\Desktop\AUDITOR\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Recepcion\Desktop\AUDITOR\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Recepcion\Desktop\AUDITOR\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Recepcion\Desktop\AUDITOR\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Recepcion\Desktop\AUDITOR\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Recepcion\Desktop\AUDITOR\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Recepcion\Desktop\AUDITOR\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Recepcion\Desktop\AUDITOR\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\ProyectoCRM.RazorTargetAssemblyInfo.cache
+C:\Users\Recepcion\Desktop\AUDITOR\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\ProyectoCRM.RazorTargetAssemblyInfo.cs
+C:\Users\Recepcion\Desktop\AUDITOR\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\ProyectoCRM.Views.pdb
+C:\Users\Recepcion\Desktop\AUDITOR\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\ProyectoCRM.dll
+C:\Users\Recepcion\Desktop\AUDITOR\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\ProyectoCRM.pdb
+C:\Users\Recepcion\Desktop\AUDITOR\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\ProyectoCRM.csproj.CopyComplete
+C:\Users\ADM\Downloads\ProyectoCRM\ProyectoCRM\ProyectoCRM\bin\Debug\netcoreapp2.1\ProyectoCRM.deps.json
+C:\Users\ADM\Downloads\ProyectoCRM\ProyectoCRM\ProyectoCRM\bin\Debug\netcoreapp2.1\ProyectoCRM.runtimeconfig.json
+C:\Users\ADM\Downloads\ProyectoCRM\ProyectoCRM\ProyectoCRM\bin\Debug\netcoreapp2.1\ProyectoCRM.runtimeconfig.dev.json
+C:\Users\ADM\Downloads\ProyectoCRM\ProyectoCRM\ProyectoCRM\bin\Debug\netcoreapp2.1\ProyectoCRM.dll
+C:\Users\ADM\Downloads\ProyectoCRM\ProyectoCRM\ProyectoCRM\bin\Debug\netcoreapp2.1\ProyectoCRM.pdb
+C:\Users\ADM\Downloads\ProyectoCRM\ProyectoCRM\ProyectoCRM\bin\Debug\netcoreapp2.1\ProyectoCRM.Views.dll
+C:\Users\ADM\Downloads\ProyectoCRM\ProyectoCRM\ProyectoCRM\bin\Debug\netcoreapp2.1\ProyectoCRM.Views.pdb
+C:\Users\ADM\Downloads\ProyectoCRM\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\ProyectoCRM.csprojAssemblyReference.cache
+C:\Users\ADM\Downloads\ProyectoCRM\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\ProyectoCRM.csproj.CoreCompileInputs.cache
+C:\Users\ADM\Downloads\ProyectoCRM\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\ProyectoCRM.RazorAssemblyInfo.cache
+C:\Users\ADM\Downloads\ProyectoCRM\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\ProyectoCRM.RazorAssemblyInfo.cs
+C:\Users\ADM\Downloads\ProyectoCRM\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\ProyectoCRM.AssemblyInfoInputs.cache
+C:\Users\ADM\Downloads\ProyectoCRM\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\ProyectoCRM.AssemblyInfo.cs
+C:\Users\ADM\Downloads\ProyectoCRM\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\ProyectoCRM.TagHelpers.input.cache
+C:\Users\ADM\Downloads\ProyectoCRM\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\ProyectoCRM.TagHelpers.output.cache
+C:\Users\ADM\Downloads\ProyectoCRM\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\ProyectoCRM.RazorCoreGenerate.cache
+C:\Users\ADM\Downloads\ProyectoCRM\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\Razor\Views\Contactos\Create.g.cshtml.cs
+C:\Users\ADM\Downloads\ProyectoCRM\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\Razor\Views\Contactos\Delete.g.cshtml.cs
+C:\Users\ADM\Downloads\ProyectoCRM\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\Razor\Views\Contactos\Details.g.cshtml.cs
+C:\Users\ADM\Downloads\ProyectoCRM\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\Razor\Views\Contactos\Edit.g.cshtml.cs
+C:\Users\ADM\Downloads\ProyectoCRM\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\Razor\Views\Contactos\Index.g.cshtml.cs
+C:\Users\ADM\Downloads\ProyectoCRM\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\ADM\Downloads\ProyectoCRM\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\ADM\Downloads\ProyectoCRM\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\ADM\Downloads\ProyectoCRM\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\ADM\Downloads\ProyectoCRM\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\ADM\Downloads\ProyectoCRM\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\ADM\Downloads\ProyectoCRM\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\ADM\Downloads\ProyectoCRM\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\ADM\Downloads\ProyectoCRM\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\ADM\Downloads\ProyectoCRM\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\ADM\Downloads\ProyectoCRM\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\ProyectoCRM.RazorTargetAssemblyInfo.cache
+C:\Users\ADM\Downloads\ProyectoCRM\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\ProyectoCRM.RazorTargetAssemblyInfo.cs
+C:\Users\ADM\Downloads\ProyectoCRM\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\ProyectoCRM.Views.pdb
+C:\Users\ADM\Downloads\ProyectoCRM\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\ProyectoCRM.dll
+C:\Users\ADM\Downloads\ProyectoCRM\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\ProyectoCRM.pdb
+C:\Users\ADM\Downloads\ProyectoCRM\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\ProyectoCRM.csproj.CopyComplete
+C:\Users\ADM\Desktop\ProyectoCRM\ProyectoCRM\ProyectoCRM\bin\Debug\netcoreapp2.1\ProyectoCRM.deps.json
+C:\Users\ADM\Desktop\ProyectoCRM\ProyectoCRM\ProyectoCRM\bin\Debug\netcoreapp2.1\ProyectoCRM.runtimeconfig.json
+C:\Users\ADM\Desktop\ProyectoCRM\ProyectoCRM\ProyectoCRM\bin\Debug\netcoreapp2.1\ProyectoCRM.runtimeconfig.dev.json
+C:\Users\ADM\Desktop\ProyectoCRM\ProyectoCRM\ProyectoCRM\bin\Debug\netcoreapp2.1\ProyectoCRM.dll
+C:\Users\ADM\Desktop\ProyectoCRM\ProyectoCRM\ProyectoCRM\bin\Debug\netcoreapp2.1\ProyectoCRM.pdb
+C:\Users\ADM\Desktop\ProyectoCRM\ProyectoCRM\ProyectoCRM\bin\Debug\netcoreapp2.1\ProyectoCRM.Views.dll
+C:\Users\ADM\Desktop\ProyectoCRM\ProyectoCRM\ProyectoCRM\bin\Debug\netcoreapp2.1\ProyectoCRM.Views.pdb
+C:\Users\ADM\Desktop\ProyectoCRM\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\ProyectoCRM.csprojAssemblyReference.cache
+C:\Users\ADM\Desktop\ProyectoCRM\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\ProyectoCRM.csproj.CoreCompileInputs.cache
+C:\Users\ADM\Desktop\ProyectoCRM\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\ProyectoCRM.RazorAssemblyInfo.cache
+C:\Users\ADM\Desktop\ProyectoCRM\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\ProyectoCRM.RazorAssemblyInfo.cs
+C:\Users\ADM\Desktop\ProyectoCRM\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\ProyectoCRM.AssemblyInfoInputs.cache
+C:\Users\ADM\Desktop\ProyectoCRM\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\ProyectoCRM.AssemblyInfo.cs
+C:\Users\ADM\Desktop\ProyectoCRM\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\ProyectoCRM.TagHelpers.input.cache
+C:\Users\ADM\Desktop\ProyectoCRM\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\ProyectoCRM.TagHelpers.output.cache
+C:\Users\ADM\Desktop\ProyectoCRM\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\ProyectoCRM.RazorCoreGenerate.cache
+C:\Users\ADM\Desktop\ProyectoCRM\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\Razor\Views\Contactos\Create.g.cshtml.cs
+C:\Users\ADM\Desktop\ProyectoCRM\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\Razor\Views\Contactos\Delete.g.cshtml.cs
+C:\Users\ADM\Desktop\ProyectoCRM\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\Razor\Views\Contactos\Details.g.cshtml.cs
+C:\Users\ADM\Desktop\ProyectoCRM\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\Razor\Views\Contactos\Edit.g.cshtml.cs
+C:\Users\ADM\Desktop\ProyectoCRM\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\Razor\Views\Contactos\Index.g.cshtml.cs
+C:\Users\ADM\Desktop\ProyectoCRM\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\ADM\Desktop\ProyectoCRM\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\ADM\Desktop\ProyectoCRM\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\ADM\Desktop\ProyectoCRM\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\ADM\Desktop\ProyectoCRM\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\ADM\Desktop\ProyectoCRM\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\ADM\Desktop\ProyectoCRM\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\ADM\Desktop\ProyectoCRM\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\ADM\Desktop\ProyectoCRM\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\ADM\Desktop\ProyectoCRM\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\ADM\Desktop\ProyectoCRM\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\ProyectoCRM.RazorTargetAssemblyInfo.cache
+C:\Users\ADM\Desktop\ProyectoCRM\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\ProyectoCRM.RazorTargetAssemblyInfo.cs
+C:\Users\ADM\Desktop\ProyectoCRM\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\ProyectoCRM.Views.pdb
+C:\Users\ADM\Desktop\ProyectoCRM\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\ProyectoCRM.dll
+C:\Users\ADM\Desktop\ProyectoCRM\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\ProyectoCRM.pdb
+C:\Users\ADM\Desktop\ProyectoCRM\ProyectoCRM\ProyectoCRM\obj\Debug\netcoreapp2.1\ProyectoCRM.csproj.CopyComplete
